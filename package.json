@@ -1,7 +1,6 @@
 {
   "name": "nextra-starter",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -9,7 +8,7 @@
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "Arpan Mon",
   "license": "Apache-2.0",
   "dependencies": {
     "@vercel/analytics": "^0.1.11",
